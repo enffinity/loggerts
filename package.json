@@ -1,6 +1,6 @@
 {
   "name": "@enffinity/loggerts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "loggerts is a typescript logging library",
   "main": "src/index.ts",
   "repository": "https://github.com/enffinity/loggerts.git",
