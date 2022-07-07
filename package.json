@@ -1,0 +1,17 @@
+{
+  "name": "loggerts",
+  "version": "1.0.0",
+  "description": "loggerts is a typescript logging library",
+  "main": "src/index.ts",
+  "repository": "https://github.com/enffinity/loggerts.git",
+  "author": "enffinity",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/test.js"
+  },
+  "dependencies": {
+    "chalk": "4.1.2"
+  }
+}
