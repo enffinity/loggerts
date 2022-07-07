@@ -1,5 +1,5 @@
 {
-  "name": "loggerts",
+  "name": "@enffinity/loggerts",
   "version": "1.0.0",
   "description": "loggerts is a typescript logging library",
   "main": "src/index.ts",
@@ -7,6 +7,7 @@
   "author": "enffinity",
   "license": "MIT",
   "private": false,
+  "keywords": ["logger", "log", "logts", "loggerts", "enffinity"],
   "scripts": {
     "build": "tsc",
     "start": "node dist/test.js"
